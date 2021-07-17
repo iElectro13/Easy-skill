@@ -181,7 +181,6 @@ while True:
         cv.destroyAllWindows()
         break
 '''
-
 while True:
     # Obtener frame y frame blanco y negro
     screenshot = wincap.get_video()
@@ -196,3 +195,4 @@ while True:
     if cv.waitKey(1) == ord('q'):
         cv.destroyAllWindows()
         break
+'''
