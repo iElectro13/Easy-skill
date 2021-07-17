@@ -156,7 +156,7 @@ def acciones():
     is_bot_in_action = False
 
 time.sleep(4)
-'''
+
 while True:
     # Obtener frame y frame blanco y negro
     screenshot = wincap.get_video()
